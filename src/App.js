@@ -1,4 +1,4 @@
-import Album from "./Album";
+import Album from "./layout/Album";
 
 function App() {
   return (

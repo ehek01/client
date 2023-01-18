@@ -12,7 +12,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import Header from "./components/layout/header/Header";
+import Header from "./header/Header";
 
 function Copyright() {
   return (
